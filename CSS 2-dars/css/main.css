@@ -1,0 +1,35 @@
+body{
+    background-color: brown;
+}
+.text-block{
+    color: white;
+    border: 5px solid white; /* solid,dotted,dashed,double ridge groove,inset,outset */
+    /*border-width: 5px;*/
+    border-top-width: 2px;
+    border-right-width: 8px;
+    border-bottom-width: 3px;
+    border-left-width: 7px;
+    /*border-style: solid;*/
+    border-top-style: dotted;
+    border-right-style: double;
+    border-bottom-style: inset;
+    border-left-style: dashed;
+    /*border-color: white;*/
+    border-top-color: yellow;
+    border-right-color: green;
+    border-bottom-color: springgreen;
+    border-left-color: aqua;
+    text-align: center; /*right,justify,left,*/
+    text-transform: uppercase; /*lowercase,capitalize,none-ozgarish bomidi-defayl kod*/
+    text-decoration: underline; /*overline,line-through,none-defalt kod */
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    line-height: 15px;
+
+    
+
+}
+
+
+
+
